@@ -1,0 +1,203 @@
+     Why Python?
+   Job Opportunities
+   Automation=Ansible
+    Desktop App=tkinter
+Web Development=Flask,Django(Instagram)
+   Testing=unittest,pytest
+  Game development=pygame
+  Data Analysis=numpy,pandas
+   numba=JIT compiler
+  cython,jython,iron python
+  web scraping=requests,beautifulsoup,urllib
+  matplotlib,seaborn=data visualization
+  sympy=maths
+  kaggle=dataset
+   odoo=low code
+  
+  founder= guido van rossuum
+
+  Software:
+  =========
+   python 2.7 or python 3.10
+   IDE(Integrated Development Environment)
+   -------
+   Anaconda(jupyter notebook+spyder)
+   pycharm community edition
+   Visual Studio Code
+   Google Colab=>run=Shift+Enter
+
+   py-avataaars
+
+
+  !pip install py-avataaars
+   
+  python version:
+====================
+   version-2(2.7.14)    version-3(3.5/3.6,...3.10)  
+  print 'hello'         print('hello')
+   int&long              int
+   ASCII                 unicode
+              dir(_ _builtins_ _)
+   
+   walrus operator := in 3.8
+
+   jshell 
+ 
+
+   package:
+ =============
+   pyqrcode
+  py-avataaars
+  pywhatkit
+   
+   XAMPP
+
+  folium=map
+  
+    
+    create TABLE staff(stid int primary key,stname varchar(30),dept enum('ece','cse','eee'));
+
+    insert into staff values(111,'rajesh','ece');
+    insert into staff values(222,'uma','eee');
+
+
+       def square(n):
+            return n**2
+
+      square=lambda n:n**2
+      
+
+
+  module: os,datetime,sys,math
+   a,b=10,0
+   try: 
+    
+   except:
+
+  pyinstaller  =convert .py to .exe
+
+  tkinter  
+
+  for i in range(1,6):
+    txtrating=tk.Radiobutton(window,text=str(i),value=str(i)).place(x=150+30*i,y=150)
+
+
+   pip install pyinstaller
+   pyinstaller --onefile --windowed mydeskapp.py
+    instaloader
+
+   package:
+  =============
+   colorama
+    schedule
+    smtplib
+   color conversion
+
+
+import schedule
+import time
+import smtplib
+
+def welcome():
+    server=smtplib.SMTP_SSL('smtp.gmail.com',465)
+    server.login('srini.pit21@gmail.com','')
+    server.sendmail('srini.pit21@gmail.com','rajesh.kambattan@gmail.com','good morning.test mail from python')
+    server.quit()
+    
+schedule.every(5).seconds.do(welcome)
+
+while True:
+    schedule.run_pending()
+    
+    time.sleep(1)
+
+     gmail app password
+
+  
+   
+ 
+   Django
+
+   Step-1: pip install django
+   Step-2: django-admin startproject staffproj
+   Step-3: cd staffproj
+   Step-4: python manage.py startapp staffapp
+    
+  
+   
+
+
+
+   OOps:
+  =======
+  1)class
+  2)object
+  3)inheritance
+  4)polymorphism
+  5)abstraction
+  6)encapsulation
+
+   1001,mani
+   1001-mani
+    
+
+
+    
+ 
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+   
+   
+
+  
+  
+ 
+ 
+  
+
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+     
+
+   
+   
+   
+  
