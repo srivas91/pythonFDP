@@ -1,0 +1,6 @@
+mysql-connector
+translate
+colorama
+pillow
+schedule
+smtplib
